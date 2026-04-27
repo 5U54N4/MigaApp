@@ -1,0 +1,7 @@
+usuario:admin
+contraseña:admin
+
+///////////////
+
+usuario:empleado
+contraseña:empleado
