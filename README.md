@@ -40,9 +40,7 @@ La versión más reciente de este paquete está disponible en:
 [GitHub - PanaderiaDelicia](https://github.com/SoriaCode/PanaderiaDelicia)
 
 ## Autores
-- **Soria Cruz Salvador Giovanni** (ssoriac2200@alumno.ipn.mx)
 - **Lozano Clemente Susana** (slozanoc2200@alumno.ipn.mx)
-- **Cruz Martínez Aleitia Yari** (acruzm2212@alumno.ipn.mx)
 
 ## Diagrama
 ```mermaid
